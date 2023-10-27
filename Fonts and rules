@@ -2,9 +2,7 @@ The font we use is Source® Sans 3
 
 We have a total of 8 sizes in the design system. 14, 16, 18, 20, 24, 28, 32 and 40 pixels.
 
-The basic size for text and digital products is **18px.**På WCAG-nivå A og AA, dvs. de nivåene vi er pålagt til å oppfylle, er det ikke noe krav om minimum tekststørrelse eller linjehøyde.
-
-Det reglene krever er at brukeren kan justere tekststørrelse og linjehøyde. Dersom du bruker typografikomponentene, sikrer du at fontene dine er kodet på en måte som lar brukeren justere disse.
+The basic size for text and digital products is **18px.**På WCAG-nivå A og AA
 
 For best readability for all users, there should be no more than 50-75 characters per line including spaces.
 
